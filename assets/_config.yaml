@@ -1,0 +1,14 @@
+title: "Lulu and Map"
+description: "A small reminder that I will ALWAYS choose you <3"
+baseurl: "/map-lulu.github.io"
+url: "https://minhnguyen1312.github.io"
+
+theme: null
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
